@@ -172,7 +172,7 @@ title.Size = UDim2.new(1,0,0,40)
 title.ZIndex = 2
 title.Font = tef
 title.FontSize = "Size24"
-title.Text = "c00lgui by team c00lkidd"
+title.Text = "c00lgui Reborn Rc7 by v3rx"
 title.TextColor3 = whit
 --           inside pages        --
 local acg = Instance.new("Frame")
