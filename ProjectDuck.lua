@@ -2863,8 +2863,8 @@ end
 wait(1)
 
 if game.Workspace.FilteringEnabled == true then
-	NOTIFY.NOTIFY.BorderColor = BrickColor.new(0,255,0)
-	Notify('Filtering is Disabled.') 
+	NOTIFY.NOTIFY.BorderColor = BrickColor.new(255,0,0)
+	Notify('⚠️ Filtering is Enabled! ⚠️') 
 elseif game.Workspace.FilteringEnabled == false then
 	NOTIFY.NOTIFY.BorderColor = BrickColor.new(0,255,0)
 	Notify('Filtering is Disabled.') 
