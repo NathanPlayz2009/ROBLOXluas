@@ -1,11 +1,3 @@
-------------
---John Doe--
-------------
------by-----
---CKbackup--
-------------
-
---Player Stuff--
 player = game:GetService("Players").LocalPlayer
 chara = player.Character
 
